@@ -1,7 +1,7 @@
 # Brick-bot
 A bot made by me to be toxic to someone, and also as a reply to them creating a bot to annoy me. More of as a meme than anything else. 
 
-##Why did I create this bot?
+## Why did I create this bot?
 No reason at all, to be honest. I literally made this on Notepad in the middle of night while I was on my sister's laptop. I can't imagine for this to be ever useful in my life or anyone's life except to piss Brick off. 
 
 ## Commands:
